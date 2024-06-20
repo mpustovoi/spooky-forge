@@ -23,7 +23,7 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Logs**
-`latest.log` and crash report if present ([mclo.gs](mclo.gs) or [gist.github.com](gist.github.com))
+latest.log and crash report if present (mclo.gs or gist.github.com)
 
 **Modpack:**
  - Version [e.g. 1.0]
